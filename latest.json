@@ -1,11 +1,11 @@
 {
   "version": "0.9.54",
   "notes": "Yolnoma v0.9.54 - Bug fixes and improvements.",
-  "pub_date": "2026-09-07T19:42:07Z",
+  "pub_date": "2026-09-07T20:17:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVVhUQnNxOVMxZ2JEMFN3ZlZLRUluRGVoWjExQmRLNlhZMlJZYjdvQVBOR3ZWK2orSG0xTkNaVFZCYWhWZkY5cVhLcU8vNER2Rzc3M1JXYW5ZRVR5ckE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODEwMDgzCWZpbGU6WW9sbm9tYV8wLjkuNTNfeDY0LXNldHVwLmV4ZQp5eWp5RzY0TDZVTFlJTFV1d05USUQ2RUF0d09mUGJkZTZEY3AxQlNQR1R1VkduWENQQWFib1QydXYxSGY4azZQUVhlZVgxUlpnVkFRMzJTbnBiR1ZDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.53_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVWJpcGlJelY3VWdORHlqYVk4WjhGZUY1azlRSTA5U1gwVlJKdFNxMWZwc0gyQ3EzaTI1UUR2YWU5RVIzVHI1RGhQbHRibUgzVVNTc1hXWUpqc0hTSXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODEyMjExCWZpbGU6WW9sbm9tYV8wLjkuNTRfeDY0LXNldHVwLmV4ZQpxbGNwWU1seE41Y1p1NHRLZ1F3NUE1aU92bFpnUUtVQzREbGQ4cDRxS1ZEaXl0ckJMS253d2V5UlgrVzhqWis3V2R3b2U5OVpuMUhqTG15YUIwRTBDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.54_x64-setup.exe"
     }
   }
 }
