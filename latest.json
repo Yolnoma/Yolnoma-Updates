@@ -1,11 +1,11 @@
 {
-  "version": "0.9.125",
-  "notes": "🐛 Bug Fixes\n\n• Resolve release build errors\n\n🔧 Maintenance\n\n• Updated v0.9.125",
-  "pub_date": "2026-09-08T09:25:43Z",
+  "version": "0.9.136",
+  "notes": "✨ What's New\n\n• Add YouTube library downloader and VI auto button",
+  "pub_date": "2026-09-08T12:32:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVWRmUjRLekRWczRBOWhSQVd5K2kwSnpSTDJvL1NOSnJ0dm4zRXEweDl4RUpEOHY0Q21sK2NFVUVlaUF4WmY4OUNIYjRqbEJBSjRObTZuRzdWUHFJOGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODU5Mzc2CWZpbGU6WW9sbm9tYV8wLjkuMTI1X3g2NC1zZXR1cC5leGUKRXpnbWwzMFRIdnIvU0c3Q2RScjcxeWFzRWUzamN5R2lRc3ZLMnVkZTJ1MVFKSUkyeUdaRUt6WmoxRFFjY09NRXJmZ0NSVDBwYVJIcW9YN2RUTXNvQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.125_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVVFPYmFlS1BqdGNwU0VTTU1rZTJ6M3ZDRjJCaXhPbGZCRWNzMlphMlpDSjhKZmVia3FUam1TMXhWMTVwOHYrREN4MWhYYmM4N0F5VUhjbTRtNi9GWWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODcwNTI0CWZpbGU6WW9sbm9tYV8wLjkuMTM2X3g2NC1zZXR1cC5leGUKWndHejB6OEpyTWhWalhzYk15SEdqNlljTHlEekRwakZqQlUvRUFWa3ZabytjZFBVYm5LUkI5cEF6VkErcFFMSlhBRXlXMGZlWndOeC9rdTQ2SjU3QkE9PQo=",
+      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.136_x64-setup.exe"
     }
   }
 }
