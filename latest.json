@@ -1,11 +1,11 @@
 {
-  "version": "0.9.54",
-  "notes": "Yolnoma v0.9.54 - Bug fixes and improvements.",
-  "pub_date": "2026-09-07T20:17:22Z",
+  "version": "0.9.102",
+  "notes": "🐛 Bug Fixes\n\n• Fix codebase agent response types",
+  "pub_date": "2026-09-08T06:20:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVWJpcGlJelY3VWdORHlqYVk4WjhGZUY1azlRSTA5U1gwVlJKdFNxMWZwc0gyQ3EzaTI1UUR2YWU5RVIzVHI1RGhQbHRibUgzVVNTc1hXWUpqc0hTSXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODEyMjExCWZpbGU6WW9sbm9tYV8wLjkuNTRfeDY0LXNldHVwLmV4ZQpxbGNwWU1seE41Y1p1NHRLZ1F3NUE1aU92bFpnUUtVQzREbGQ4cDRxS1ZEaXl0ckJMS253d2V5UlgrVzhqWis3V2R3b2U5OVpuMUhqTG15YUIwRTBDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.54_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVWFQaTB2VW5mVVRFdFhZN3VwbGxvTURXbmV5dnhDb29tbmhpdWFxS25hdWdSZ2Z5Z0JManNyQmhZMnRwWGNHVWJTTFVlbmd1ZDVRTHprWUNkcVd3dkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODQ4MzI5CWZpbGU6WW9sbm9tYV8wLjkuMTAxX3g2NC1zZXR1cC5leGUKVEhzUUxKcnIzd1FSNjloNWlTck5MbGdUVE11RDhNdkRaeFBTK0ErVUdzWHVlZGd1ZzAxbW5FWWhza0NRS2ZrM2Vsc0VtRkxIUGIyQXpqSkVMcGphREE9PQo=",
+      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.101_x64-setup.exe"
     }
   }
 }
