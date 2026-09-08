@@ -1,11 +1,11 @@
 {
-  "version": "0.9.136",
-  "notes": "✨ What's New\n\n• Add YouTube library downloader and VI auto button",
-  "pub_date": "2026-09-08T12:32:02Z",
+  "version": "0.9.137",
+  "notes": "🐛 Bug Fixes\n\n• Role access user VI page!\n\n📚 Documentation\n\n• Updated some",
+  "pub_date": "2026-09-08T13:13:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVVFPYmFlS1BqdGNwU0VTTU1rZTJ6M3ZDRjJCaXhPbGZCRWNzMlphMlpDSjhKZmVia3FUam1TMXhWMTVwOHYrREN4MWhYYmM4N0F5VUhjbTRtNi9GWWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODcwNTI0CWZpbGU6WW9sbm9tYV8wLjkuMTM2X3g2NC1zZXR1cC5leGUKWndHejB6OEpyTWhWalhzYk15SEdqNlljTHlEekRwakZqQlUvRUFWa3ZabytjZFBVYm5LUkI5cEF6VkErcFFMSlhBRXlXMGZlWndOeC9rdTQ2SjU3QkE9PQo=",
-      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.136_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVVhRNjc0TENqbG8rTklkTTJPUmNNb0VZZ2dZb0h5d2ZNRkFKSDdRcWJReHdlVGxIbFdYZmprdFRKVlRHZ1JGUVJBZmR5Qzk0MmxaeU9YVjcxUi8yd0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODcyOTcwCWZpbGU6WW9sbm9tYV8wLjkuMTM3X3g2NC1zZXR1cC5leGUKRDRpNSttdS9KeEdVMUkvYTBObVhabStiT3U4NnVwbVJtOTY2dCt2TFE1RmtkTTVnZzVUQjEwNzBpSGUyRmNjTktwb09jdW9pWVFtS1l2WUYrTmNsQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.137_x64-setup.exe"
     }
   }
 }
