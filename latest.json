@@ -1,11 +1,11 @@
 {
-  "version": "0.9.137",
-  "notes": "🐛 Bug Fixes\n\n• Role access user VI page!\n\n📚 Documentation\n\n• Updated some",
-  "pub_date": "2026-09-08T13:13:24Z",
+  "version": "0.9.304",
+  "notes": "✨ What's New\n\n• Add wasd exploration controls\n• Add windlit tree environment\n• Arrange sidebar tools around 3d world\n• Add interactive 3d yolnoma world\n• Add personalized dashboard daily brief\n• Add developer tools workspace\n• Add file intelligence storage scanner\n• Add weekly weather and modularize tauri bootstrap\n\n🐛 Bug Fixes\n\n• Persist approved weather location\n• Detect duplicate files by content hash\"\n• Detect duplicate files by content hash\n\n⚡ Performance\n\n• Refine world framing and natural wind\n\n🔧 Improvements\n\n• Sync world geometry with sidebar tools\n• Simplify dashboard and prioritize system resources\n• Simplify dashboard and prioritize system resources\n\n📚 Documentation\n\n• Document utility workspaces\n\n🔧 Maintenance\n\n• Release v0.9.304\n• Add feature branch merge script",
+  "pub_date": "2026-09-09T11:21:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVVhRNjc0TENqbG8rTklkTTJPUmNNb0VZZ2dZb0h5d2ZNRkFKSDdRcWJReHdlVGxIbFdYZmprdFRKVlRHZ1JGUVJBZmR5Qzk0MmxaeU9YVjcxUi8yd0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODcyOTcwCWZpbGU6WW9sbm9tYV8wLjkuMTM3X3g2NC1zZXR1cC5leGUKRDRpNSttdS9KeEdVMUkvYTBObVhabStiT3U4NnVwbVJtOTY2dCt2TFE1RmtkTTVnZzVUQjEwNzBpSGUyRmNjTktwb09jdW9pWVFtS1l2WUYrTmNsQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.137_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVVJsR0RhclgyQ3VwRW8yUFkvSmNJbDhvOVpqcjFIa08wZDFFS0MrNVE1VmlVNytwMXJPU0ZrSENvenAxWDNoSW1helVaMDhjdlI2OWhsTmRwcGhwUndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTUyNzA3CWZpbGU6WW9sbm9tYV8wLjkuMzA0X3g2NC1zZXR1cC5leGUKYTQxeDBoOW5CRVgrMm9KZnJhTmlkL0VqMzdWaFh5NVdWRjlzT1QxOFYvcmJlMTFKNnpTNmU5ME96aTZ4NFIrRXIvN0dkWHJXbnJHNFI0b0tkL1ZZRGc9PQo=",
+      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_0.9.304_x64-setup.exe"
     }
   }
 }
