@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "🐛 Bug Fixes\n\n• Inject build secrets into release workflow",
-  "pub_date": "2026-09-10T12:15:31Z",
+  "version": "1.0.2",
+  "notes": "✨ What's New\n\n• Add JSON viewer and card exporter\n\n🐛 Bug Fixes\n\n• Bundle SteamUtility with Windows app",
+  "pub_date": "2026-09-11T08:43:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVWRZYmgvR2JTeDlyRGlCSGNlYVlFY3JaS3J4RG9xc1BJRXg2VTdkdmRMRDlqb3hId2l5V0dCbW5yTCtMQVVXdTdmRlp4b01aOFczdjNjT2VHTllQRndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQyMzQ1CWZpbGU6WW9sbm9tYV8xLjAuMV94NjQtc2V0dXAuZXhlCjl2NTVMZkNxdDM0OEoxVmk1YnpVbFJBaEtob09iWVZSSkVBZ2VubkhKWVIyNjZYOHVmTjhSNTlRdzZTOGpoazU0aTZlMzJBNkMxTWdCY1ZGcENiekNBPT0K",
-      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVVdETVMreURTWnhINzNqdis1KzFQMUljeTFBYVY1WmV6YVZVVS96ZTErWlpWdEF1NFU1TXgvLzhZdHVwMkFyODZtMHlWNjhYSFZBalNDYXBQVGZmeHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTE2MDQ3CWZpbGU6WW9sbm9tYV8xLjAuMl94NjQtc2V0dXAuZXhlCmtyUFoxMjFEVDd2V3gvRG5IZnZBOUxJemZ4M2ljWGlmUTNKaXpISVpDNWw5TWtuU1dDdkVZZHdEWkZ4R1FDUUpZdHF5SE9VQk5VUi9EemlKeldIWkNRPT0K",
+      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_1.0.2_x64-setup.exe"
     }
   }
 }
