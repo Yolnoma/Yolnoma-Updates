@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "🐛 Bug Fixes\n\n• Resolve bundled SteamUtility resources",
-  "pub_date": "2026-09-11T09:29:25Z",
+  "version": "1.0.5",
+  "notes": "✨ What's New\n\n• Add README preview code mode and image analysis\n• Add AI README generator workspace tool\n• Enhance markdown studio exports and highlighting\n\n🐛 Bug Fixes\n\n• Improve README context and model fallback\n• Add export feedback and compact currency converter",
+  "pub_date": "2026-09-12T17:54:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVVhZY2RCdkZyWlV3dENPNE5neERrQUdBbW5sRkJiN0VuZXRHOWo3N3BxSWI2V2hoUW1yNnVmSjNPTnNiRHQ3SWRyRmk5NE8yeGI1eXVYRjFKT05kbGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTE4NzcwCWZpbGU6WW9sbm9tYV8xLjAuM194NjQtc2V0dXAuZXhlClM5Yk9RaU13RTVJTTk1a3k3b0poUjFreCt4MmdaY1VQZjk0QWpDOE5uQytubE5CYzV5cVdzR2NITEFheXFMNHNPYWU4NWZZY0R2STVxb2grbVM2ZkN3PT0K",
-      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSDY0TU8rVWcxVVJiNnRlNFB3Kzl6TDRRcjllQjBpR3pyTnVOMmdQY2hIYW1wRXkyNmgwQ25Cc3VFczdtT2tlYnFzQmZxSEZTMkR3citab2RKRlNqdGlaWFJKeXN6UlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjM1NTAxCWZpbGU6WW9sbm9tYV8xLjAuNV94NjQtc2V0dXAuZXhlCjErcnVxdTdXVHdMUkRrcENxU2l1czA3dUZybjZTbUxVMmlMVTNvREV4aXJVY2FZaXVscm5Pa3Ywb3h0NEhoWkFncXpCR09UQlhJb3R6cE04a3J2aEJnPT0K",
+      "url": "https://raw.githubusercontent.com/Yolnoma/Yolnoma-Updates/main/Yolnoma_1.0.5_x64-setup.exe"
     }
   }
 }
